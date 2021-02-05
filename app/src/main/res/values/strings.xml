@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Desafio Android Core</string>
+    <string name="inputEmail">Email</string>
+    <string name="appName">Digital House Foods</string>
+    <string name="inputPassword">Password</string>
+    <string name="loginButton">LOG IN</string>
+    <string name="registerButton">REGISTER</string>
+    <string name="orLine">OR</string>
+    <string name="registrationActivityTitle">Register</string>
+    <string name="inputName">Name</string>
+    <string name="inputPasswordConfirmation">Repeate password</string>
+    <string name="menuTitle">Pratos principais</string>
+</resources>
